@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     li.innerHTML = `<span>${task.text}</span>
     <button>Delete
-    <img src="../Image Folder/icons8-delete-48.png" alt="">
+    <img src="./icons8-delete-48.png" alt="">
     </button>`;
     todoList.appendChild(li);
 
