@@ -93,12 +93,11 @@ li button{
     padding: 5px;
     display: flex;
     align-items: center;
-    color: #000;
     border-radius: 5px;
     cursor: pointer;
 }
 
 li button:hover{
-    background-color: lightsalmon;
-    box-shadow: 0px 0px 15px lightsalmon;
+    background-color: orangered;
+    box-shadow: 0px 0px 15px orangered;
 }
